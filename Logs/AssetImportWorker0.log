@@ -325,3 +325,19 @@ Received Import Request.
 Start importing Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png using Guid(4164b771c2b784c2da3cbe10847a182e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a6f3c3209273435105717dc48fd54d0') in 0.012128 seconds
   Import took 0.017394 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 11352.162576 seconds.
+  path: Assets/Textures/brick-wall-background-seamless-texture-pattern-illustration-free-vector.jpg
+  artifactKey: Guid(12a4f0ae780d2459db742b3e5ae2470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/brick-wall-background-seamless-texture-pattern-illustration-free-vector.jpg using Guid(12a4f0ae780d2459db742b3e5ae2470d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd546d985d2856d0ca5d8f56a2aac93b8') in 0.095390 seconds
+  Import took 0.187674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20313.269989 seconds.
+  path: Assets/white.mat
+  artifactKey: Guid(ef7b7120c2ed941ee8ebb1ef3fdf2cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/white.mat using Guid(ef7b7120c2ed941ee8ebb1ef3fdf2cb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762bc47c4dbd9f3bebcbbcef923cce93') in 0.150010 seconds
+  Import took 0.254157 seconds .
+
