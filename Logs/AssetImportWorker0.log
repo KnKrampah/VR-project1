@@ -949,3 +949,26 @@ Received Import Request.
 Start importing Assets/Textures/Target-Stainless-Steel-Hand-Wash-Basin.png using Guid(e82f4b2e0fb044e0b9676113d75ed748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e87c07ce06cd9c189f00e6df400a86') in 0.042796 seconds
   Import took 0.058906 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 26.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.405 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2234 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 1.03 GB.
+System memory in use after: 1.03 GB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2775.
+Total: 6.897292 ms (FindLiveObjects: 0.599417 ms CreateObjectMapping: 0.132542 ms MarkObjects: 5.941500 ms  DeleteObjects: 0.221791 ms)
+
